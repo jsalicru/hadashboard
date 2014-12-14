@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'dashing'
 gem 'thor'
+gem 'nest_thermostat'
 
 # Authentication
 gem 'oa-openid'
