@@ -2,12 +2,14 @@ source 'https://rubygems.org'
 
 gem 'dashing'
 gem 'thor'
-gem 'nest_thermostat'
 
 # Authentication
 gem 'oa-openid'
 gem 'omniauth-heroku', '~> 0.2.0.pre'
 gem 'oauth2'
+
+# additional widgets
+gem 'nest_thermostat'
 
 # JSON
 gem 'json'
